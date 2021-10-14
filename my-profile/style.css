@@ -1,0 +1,26 @@
+h1 {
+	color: #2D2424;
+		fond-size: 45px;
+		font-family: Lobster Two;
+		text-align: center;
+	}
+h2 {
+	color: #5C3D2E;
+	font-family: ,serif;
+}	
+
+
+		body{color: #B85C38;
+			font-family: Dancing Script;
+			font-weight: 350;
+			background-image: url(images/fond.jpg);
+		}
+
+		div{
+			background: #F3D5C0;
+			border-radius: 2px sandybrown;
+			margin:  35px;
+			padding: 35px 35px;
+			box-shadow: 0px 16px 31px sandybrown;
+			text-align: center;
+		}
